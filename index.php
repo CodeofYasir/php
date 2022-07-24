@@ -64,7 +64,7 @@ $con->close();
 <body>
     <div class="container">
         <header class="header">
-            <h2>Welcome to PU University US trip form</h2>
+            <h2>Welcome</h2>
             <p>Enter your details and submit this form to confirm your participation in this trip</p>
             <?php
             if($insert == true)
